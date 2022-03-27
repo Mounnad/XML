@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsd:schema xmlns:ecl="urn:entsoe.eu:wgedi:codelists" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:entsoe.eu:wgedi:codelists" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <xsd:include schemaLocation="urn-entsoe-eu-local-extension-types.xsd" />
+  <xsd:include schemaLocation="https://github.com/Mounnad/XML/blob/master/urn-entsoe-eu-local-extension-types.xsd" />
   <xsd:annotation>
     <xsd:documentation>
       <Version>80</Version>
