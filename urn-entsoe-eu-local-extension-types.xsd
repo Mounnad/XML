@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <xsd:schema xmlns:ecl="urn:entsoe.eu:wgedi:codelists" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <xsd:simpleType name="LocalAllocationModeType">
     <xsd:restriction base="xsd:NMTOKEN">
